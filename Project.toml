@@ -1,0 +1,16 @@
+name = "RiskyCommunity"
+uuid = "84960c9c-5c90-448b-8ce4-ca4dde36bba7"
+authors = ["Mihaly Dolanyi"]
+version = "0.1.1"
+
+[deps]
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
