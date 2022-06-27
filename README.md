@@ -1,4 +1,4 @@
-# Data-driven risk-based scheduling of energy communities participating in day-ahead and real-time electricity markets
+# Risk-based constraints for the optimal operation of an energy community
 
 
 Data
